@@ -1,0 +1,29 @@
+{
+  "name": "puppeteer-example",
+  "version": "1.0.1",
+  "description": "puppeteer boilerplate with examples",
+  "author": "Felipe Figueroa  <amenadiel@gmail.com>",
+  "license": "ISC",
+  "readmeFilename": "README.md",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/HuasoFoundries/puppeteer-example"
+  },
+  "bugs": {
+    "url": "https://github.com/HuasoFoundries/puppeteer-example/issues"
+  },
+  "homepage": "https://github.com/HuasoFoundries/puppeteer-example",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "engines": {
+    "node": "6.11.2"
+  },
+  "dependencies": {
+    "puppeteer": "^0.12.0"
+  },
+  "devDependencies": {
+    "babel-eslint": "^8.0.2",
+    "eslint": "^4.12.0"
+  }
+}
